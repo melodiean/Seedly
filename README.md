@@ -1,3 +1,3 @@
 # Seedly
 
-Seed bank
+Seed bank for seed details
